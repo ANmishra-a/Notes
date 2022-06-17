@@ -111,3 +111,4 @@ During this phase, taking the viewport size into consideration, the browser dete
 #### Paint
 
 The browser now convert each box calculated in the layout phase to actual pixels on the screen and this process is called Panting.
+And finally you see the response on the screen it seems like a lot of work but we all know how fast it is.
